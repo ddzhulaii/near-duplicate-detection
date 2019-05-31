@@ -1,0 +1,7 @@
+./dev_dataset/1_duplicate.jpg
+./dev_dataset/11_modification.jpg
+./dev_dataset/15.jpg
+./dev_dataset/1.jpg
+./dev_dataset/11.jpg
+./dev_dataset/15_modification.jpg
+./dev_dataset/11_duplicate.jpg
